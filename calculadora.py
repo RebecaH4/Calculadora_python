@@ -1,4 +1,4 @@
-#Rebeca
+#Rebeca Hernández Cruz 
 
 import tkinter as tk
 from tkinter import ttk
