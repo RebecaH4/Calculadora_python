@@ -1,4 +1,5 @@
-#Rebeca Hernández Cruz 
+#Create by
+#Rebeca HC
 
 import tkinter as tk
 from tkinter import ttk
