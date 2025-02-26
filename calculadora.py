@@ -1,5 +1,5 @@
 #Create by
-#Rebeca HC
+#Rebeca HdC
 
 import tkinter as tk
 from tkinter import ttk
